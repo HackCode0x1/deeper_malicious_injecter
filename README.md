@@ -36,9 +36,10 @@ Linux
 <img src="screen/s5.png">
 <img src="screen/s6.png">
 
-[![Watch the video](screen/s6.png)](https://youtu.be/SKmP13abMb0)
 
-[![SC2 Video]((https://youtu.be/SKmP13abMb0)
+Watch this video:
+[![Watch the video](screen/sx1.png)](https://youtu.be/SKmP13abMb0)
+
 
 
 
