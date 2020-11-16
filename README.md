@@ -37,7 +37,7 @@ Linux
 <img src="screen/s6.png">
 
 
-[![SC2 Video](https://img.youtube.com/vi/--b-9HrKK6w/0.jpg)](https://youtu.be/SKmP13abMb0)
+[![SC2 Video]((https://youtu.be/SKmP13abMb0)
 
 
 
