@@ -28,13 +28,13 @@ System
 
 Linux
 
-<img src="scrren/s7.png">   
-<img src="scrren/s2.png">
-<img src="scrren/s3.png">
+<img src="screen/s7.png">   
+<img src="screen/s2.png">
+<img src="screen/s3.png">
 
-<img src="scrren/s4.png">
-<img src="scrren/s5.png">
-<img src="scrren/s6.png">
+<img src="screen/s4.png">
+<img src="screen/s5.png">
+<img src="screen/s6.png">
 
 
 
