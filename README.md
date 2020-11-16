@@ -37,8 +37,8 @@ Linux
 <img src="screen/s6.png">
 
 
-Watch this video:
-[![Watch the video](screen/sx1.png)](https://youtu.be/SKmP13abMb0)
+
+[![Watch the video](https://youtu.be/SKmP13abMb0)
 
 
 
