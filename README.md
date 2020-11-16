@@ -36,6 +36,7 @@ Linux
 <img src="screen/s5.png">
 <img src="screen/s6.png">
 
+[![Watch the video](https://i.imgur.com/screen/s6.png)](https://youtu.be/SKmP13abMb0)
 
 [![SC2 Video]((https://youtu.be/SKmP13abMb0)
 
