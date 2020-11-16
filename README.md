@@ -39,7 +39,7 @@ Linux
 
 
 
-[![SC2 Video]((https://youtu.be/SKmP13abMb0)
+[![Watch This Video]((https://youtu.be/SKmP13abMb0)
 
 
 
