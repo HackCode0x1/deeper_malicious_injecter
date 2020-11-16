@@ -38,7 +38,8 @@ Linux
 
 
 
-[![Watch the video](https://youtu.be/SKmP13abMb0)
+
+[![SC2 Video]((https://youtu.be/SKmP13abMb0)
 
 
 
