@@ -28,7 +28,7 @@ System
 
 Linux
 
-<img src="screen/s7.png">   
+
 <img src="screen/s2.png">
 <img src="screen/s3.png">
 
