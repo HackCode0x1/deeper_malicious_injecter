@@ -36,6 +36,11 @@ Linux
 <img src="screen/s5.png">
 <img src="screen/s6.png">
 
+<img src="screen/d1.jpg">
+<img src="screen/d2.jpg">
+<img src="screen/d3.jpg">
+<img src="screen/d4.jpg">
+<img src="screen/d5.jpg">
 
 
 
