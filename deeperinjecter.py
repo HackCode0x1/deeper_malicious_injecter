@@ -1130,7 +1130,7 @@ os.system(r'copy {} "C:\Users\{}\AppData\Roaming\Microsoft\Windows\Start Menu\Pr
     def Style(self):
         CODE_BANNERCN = '['+Fore.GREEN+'<>'+Style.RESET_ALL+"]  "+Fore.LIGHTCYAN_EX+' CodeName: '+Style.RESET_ALL+":"+Fore.LIGHTRED_EX+"HACkCrX"+Style.RESET_ALL+'                   ['+Fore.GREEN+'<>'+Style.RESET_ALL+"]"
         CODE_BANNER = '['+Fore.GREEN+'<>'+Style.RESET_ALL+"]   "+Fore.LIGHTCYAN_EX+'        Created By'+Style.RESET_ALL+":"+Fore.LIGHTRED_EX+'  AhmedBalaha'+Style.RESET_ALL+'     ['+Fore.GREEN+'<>'+Style.RESET_ALL+"]"
-        CODE_BANNERV = '['+Fore.GREEN+'<>'+Style.RESET_ALL+"]  "+Fore.LIGHTCYAN_EX+'         Version'+Style.RESET_ALL+":"+Fore.LIGHTRED_EX+'  4.1.0'+Style.RESET_ALL+'              ['+Fore.GREEN+'<>'+Style.RESET_ALL+"]"
+        CODE_BANNERV = '['+Fore.GREEN+'<>'+Style.RESET_ALL+"]  "+Fore.LIGHTCYAN_EX+'         Version'+Style.RESET_ALL+":"+Fore.LIGHTRED_EX+'  4.2.0'+Style.RESET_ALL+'              ['+Fore.GREEN+'<>'+Style.RESET_ALL+"]"
         
 
         
@@ -1313,7 +1313,7 @@ DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
 
        
         b5s = Fore.RED+'>'+Style.RESET_ALL+' Shell'+Style.RESET_ALL
-        b5v = Fore.RED+'>'+Style.RESET_ALL+' Version'+Fore.GREEN+' 4.1.0 '+Style.RESET_ALL
+        b5v = Fore.RED+'>'+Style.RESET_ALL+' Version'+Fore.GREEN+' 4.2.0 '+Style.RESET_ALL
         b5g = Fore.RED+'>'+Style.RESET_ALL+' Follow Me On Github:'+Fore.GREEN+' @HACkCrX '+Style.RESET_ALL
         b5c = Fore.RED+'>'+Style.RESET_ALL+' Created By :'+Fore.GREEN+' AhmedBalaha'+Style.RESET_ALL
         b5op = Fore.RED+'>'+Style.RESET_ALL+' Select An Option To Begin'+Style.RESET_ALL
