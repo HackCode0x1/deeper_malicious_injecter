@@ -50,7 +50,7 @@ if OS == "kali" or OS == "parrot" or OS=="ubuntu" or OS=="mint" or OS=="backbox"
             
 
 else:
-    print("[!] Warning OS Not Supported", end="")
+    #print("[!] Warning OS Not Supported", end="")
     #print("\n")
     #sys.exit()
     pass
