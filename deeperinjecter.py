@@ -373,11 +373,8 @@ Call trans opt: received. 2-19-98 13:24:18 REC:Loc
             
 
         else:
-            print(white+' [{}]'.format(green+"Not OK"))
-            print(warning,green+"OS Not Supported", end="")
-            print("\n")
-            sys.exit()
-    
+            pass
+           
 
 
 
@@ -554,11 +551,8 @@ Call trans opt: received. 2-19-98 13:24:18 REC:Loc
 
 
         else:
-            print(white+' [{}]'.format(distro+green+white))
-            print(warning,green+"System Not Supported", end="")
-            print("\n")
-            sys.exit()
-        
+            pass
+          
         
         
 
