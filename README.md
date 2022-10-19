@@ -1,17 +1,18 @@
 # deeper_malicious_injecter
 
+hacking windows and linux and android system 
+## FEATURES :
+* [+] SYstem Hacking !
+* [+] Linux Deb Injector !
+* [+] Embed Metasploit Payload In Original APk !
+* [+] Inject Metasploit Payload In executable exe 
+* [+] Web Delivery
+* [+] Searchsploit !
+* [+] Create Listener
+* [+] Evading Antivirus !
 
 
 pip3 install -r requirements.txt
-
-SYstem Hacking And malicious injecter | Creating Backkdoors | Evading Antivirus
-
-Generate Msfvenome Payload 
-
-Linux Deb Injector 
-
-Embed Metasploit Payload In Original APk 
-
 
 
 
